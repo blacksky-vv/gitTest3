@@ -10,5 +10,6 @@ public class Test {
         System.out.println("git helloXX testXX");
 
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
